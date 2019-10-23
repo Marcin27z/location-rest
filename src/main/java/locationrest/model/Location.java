@@ -1,4 +1,4 @@
-package enigma.pozycjarest.model;
+package locationrest.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

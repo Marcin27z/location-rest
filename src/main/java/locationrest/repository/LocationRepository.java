@@ -1,6 +1,6 @@
-package enigma.pozycjarest.repository;
+package locationrest.repository;
 
-import enigma.pozycjarest.model.Location;
+import locationrest.model.Location;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

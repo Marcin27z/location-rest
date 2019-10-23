@@ -1,4 +1,4 @@
-package enigma.pozycjarest;
+package locationrest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

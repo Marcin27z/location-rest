@@ -1,8 +1,8 @@
-package enigma.pozycjarest;
+package locationrest;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import enigma.pozycjarest.model.Location;
-import enigma.pozycjarest.service.LocationService;
+import locationrest.model.Location;
+import locationrest.service.LocationService;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

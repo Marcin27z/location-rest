@@ -1,7 +1,7 @@
-package enigma.pozycjarest.service;
+package locationrest.service;
 
-import enigma.pozycjarest.model.Location;
-import enigma.pozycjarest.repository.LocationRepository;
+import locationrest.model.Location;
+import locationrest.repository.LocationRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
